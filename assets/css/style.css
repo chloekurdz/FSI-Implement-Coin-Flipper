@@ -7,7 +7,7 @@ body {
 
 body {
     min-height: 100vh;
-    background: linear-gradient(to bottom left, orange, white);
+    background: linear-gradient(to bottom left, lightblue, white);
 }
 
 main {
@@ -28,7 +28,7 @@ h1 {
 }
 
 .message-container {
-    color: darkorange;
+    color: darkblue;
     font-size: 1.5em;
     font-weight: bold;
 }
@@ -50,18 +50,18 @@ button {
 }
 
 #clear {
-    background: linear-gradient(to bottom left, orange, white);
+    background: linear-gradient(to bottom left, lightblue, white);
 }
 
 #clear:hover {
-    background: linear-gradient(to bottom left, red, orange);
+    background: linear-gradient(to bottom left, blue, lightblue);
 }
 
 /* Scoreboard Styles */
 table, 
 th, 
 td {
-    border: 1px solid darkorange;
+    border: 1px solid darkblue;
     margin: 0 auto;
 }
 
